@@ -1,30 +1,71 @@
-# MyLocalAQI
-Accurate, real-time local Air Quality Index (AQI) &amp; health advice for your city.
-Know What You Breathe with MyLocal AQI
+# Privacy Policy for AQI Now
 
-Stay informed and protect your health with MyLocal AQI, your personal air quality companion. Whether you're tracking pollution for your morning run or checking if it's safe for your children to play outside, we provide precise, hyper-local air quality data instantly.
+**Last Updated: December 30, 2025**
 
-Key Features:
+Excel Technologies India ("we," "us," or "our") operates the **AQI Now** mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
 
-🌍 Hyper-Local & Real-Time AQI Get the most accurate Air Quality Index reading for your exact location. We don't just show you the city average; we use advanced algorithms and the nearest reliable CPCB monitoring stations to estimate the air quality right where you stand.
+## 1. Information Collection and Use
 
-🏥 Health-First Advisories Understand what the numbers mean. Our detailed health recommendations tell you if it's safe to exercise outdoors, if you need a mask, or if sensitive groups (children, elderly) should stay indoors.
+We collect several different types of information for various purposes to provide and improve our service to you. 
 
-🗺️ Interactive Air Quality Map Explore pollution levels across your city. Our color-coded map visualizes air quality stations nearby, complete with a location accuracy circle so you know exactly how precise the data is.
+**Note: AQI Now does not require you to create an account or provide any personally identifiable information like your name, phone number, or email address to use the App.**
 
-📊 Detailed Pollutant Breakdown Go beyond the basics. Track levels of key pollutants including:
+### Types of Data Collected
 
-PM2.5 & PM10 (Particulate Matter)
-NO2 (Nitrogen Dioxide)
-SO2 (Sulfur Dioxide)
-Ozone (O3) & CO
-📅 Historical Data tracking Keep a tab on your exposure. Our history feature automatically saves your daily check-ins, allowing you to review air quality trends over time.
+#### Location Data
+To provide accurate air quality data for your specific location, the App requests access to your device's location.
+- **Precise Location (GPS and network-based)**: We use your precise location to calculate the "Estimated Local AQI" by interpolating data from the nearest official monitoring stations.
+- **Approximate Location (network-based)**: We may use approximate location if precise location is unavailable.
+- **Processing**: This location data is processed locally on your device or sent as a numerical coordinate (Latitude/Longitude) to air quality data providers (CPCB). We **do not** store a history of your real-time coordinates on our servers.
 
-🇮🇳 Built for India Fully localized with support for English and Hindi. Data is sourced directly from official Central Pollution Control Board (CPCB) feeds for maximum reliability.
+#### Local Data Storage
+- **Search History**: The App saves a local history of your AQI searches on your device. This data remains on your device and is not uploaded to our servers.
+- **Data Deletion**: You can delete this history at any time through the App's settings or by clearing the App's cache/data in your device's Android settings. Since we do not store this data on servers, deleting it locally removes it permanently.
 
-Why MyLocal AQI?
+## 2. Use of Data
 
-Simple & Beautiful: A clean, modern interface that makes complex data easy to read.
-Battery Efficient: Get your data quickly without draining your battery.
-Privacy Focused: Your location is used strictly to fetch local data and is never shared.
-Download MyLocal AQI today and breathe smarter.
+MyLocal AQI uses the collected data for various purposes:
+- To provide and maintain the App's functionality.
+- To calculate and display hyperlocal air quality indices.
+- To provide localized health advisories based on air quality levels.
+- To allow you to participate in interactive features of our App when you choose to do so.
+
+## 3. Disclosure of Data
+
+### Service Providers
+We fetch air quality data from official third-party sources:
+- **Central Pollution Control Board (CPCB) India**: We use the official CPCB RSS feed to retrieve station-level data. This service does not receive any personal identifiers (like your name or email) from our App.
+
+### Legal Requirements
+We may disclose your Data in the good faith belief that such action is necessary to:
+- To comply with a legal obligation.
+- To protect and defend the rights or property of Excel Technologies India.
+- To prevent or investigate possible wrongdoing in connection with the App.
+- To protect the personal safety of users of the App or the public.
+
+## 4. Security of Data
+
+The security of your data is important to us.
+- **Encryption**: All data transmitted between the App and our official data sources (CPCB) is encrypted during transit using Transport Layer Security (TLS/HTTPS).
+- **Storage**: We do not store your personal information or coordinates on our servers.
+
+## 5. Children's Privacy
+
+Our App does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our device and servers.
+
+## 6. Your Data Protection Rights Under GDPR/CCPA
+
+Excel Technologies India aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. You have the right to access the data stored on your device and can delete your local history at any time through the App's settings.
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## 8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+- By email: **exceltechnologiesindia@gmail.com**
