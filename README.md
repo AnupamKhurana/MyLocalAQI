@@ -24,7 +24,7 @@ To provide accurate air quality data for your specific location, the App request
 
 ## 2. Use of Data
 
-MyLocal AQI uses the collected data for various purposes:
+AQI Now uses the collected data for various purposes:
 - To provide and maintain the App's functionality.
 - To calculate and display hyperlocal air quality indices.
 - To provide localized health advisories based on air quality levels.
